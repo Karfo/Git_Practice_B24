@@ -12,6 +12,6 @@ public class First {
 
         // third commit
 
-        // new lines
+        // more lines
     }
 }
